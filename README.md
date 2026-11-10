@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-7D54AC?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-app-4C4295?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-faster--whisper-B5338A?style=for-the-badge)
-![DeepSeek-v4-Pro](https://img.shields.io/badge/DeepSeek-opcional-312A5D?style=for-the-badge)
+![DeepSeek-v4-Pro](https://img.shields.io/badge/DeepSeek-v4-pro-opcional-312A5D?style=for-the-badge)
 
 </div>
 
