@@ -1,4 +1,5 @@
 streamlit>=1.46
 faster-whisper>=1.1
+av>=11,<19
 openai>=1.40
 python-dotenv>=1.0
