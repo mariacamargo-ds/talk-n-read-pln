@@ -65,5 +65,6 @@ prepare_models.py       baixa os modelos antecipadamente
 
 ---
 
-Feito por [Maria Eduarda Camargo](https://www.linkedin.com/in/maria-camargo-ds/) ·
-[Streamlit](https://github.com/mariacamargo-ds)
+Feito por [Maria Eduarda Camargo](https://www.linkedin.com/in/maria-camargo-ds/)
+
+Confira na plataforma [Streamlit](https://talk-n-read-pln.streamlit.app)
